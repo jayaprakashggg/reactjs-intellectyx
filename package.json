@@ -1,8 +1,8 @@
 {
-  "name": "mpu-portlet-react",
+  "name": "intellectyx",
   "version": "0.1.0",
   "private": true,
-  "description": "MPU Handheld",
+  "description": "intellectyx",
   "main": "index.js",
   "scripts": {
     "clean:dev": "rimraf dist-dev",
@@ -17,10 +17,6 @@
     "lint-init": "eslint --init",
     "lint": "eslint --ext .ts,.tsx ./src/ ",
     "lint-fix": "eslint --ext .ts,.tsx ./src/ --fix"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://git-codecommit.us-east-2.amazonaws.com/v1/repos/rs-backoffice-StoreFrontEnd"
   },
   "author": "",
   "license": "ISC",

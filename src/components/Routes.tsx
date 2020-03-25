@@ -30,7 +30,7 @@ class Routes extends React.Component {
   /**
    * @method
    * @private
-   * @summary Renders the mpu page
+   * @summary Renders the intellectyx page
    */
   private renderRoutes() {
     return (

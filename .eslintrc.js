@@ -22,10 +22,7 @@ module.exports = {
     Atomics: "readonly",
     SharedArrayBuffer: "readonly",
     ENV_CONFIG: "readonly",
-    MPU_API_CONFIG: "readonly",
-    STAGE_API_CONFIG: "readonly",
-    WEB_API_CONFIG: "readonly",
-    FILLFLOOR_API_CONFIG: "readonly"
+    API_CONFIG: "readonly"
   },
   parser: "@typescript-eslint/parser",
   parserOptions: {
